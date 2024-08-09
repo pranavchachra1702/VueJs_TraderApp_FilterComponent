@@ -15,4 +15,3 @@ onMounted( async () => {
     <DataTable :items="items" />
   </div>
 </template>
-
